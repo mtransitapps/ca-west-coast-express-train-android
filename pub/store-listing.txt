@@ -5,7 +5,7 @@ West Coast Express train for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from June 25, 2018 to December 15, 2018.
+Schedule from September 4, 2018 to December 15, 2018.
 News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
 ----------

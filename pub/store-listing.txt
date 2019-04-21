@@ -5,7 +5,7 @@ Vancouver WCE train for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from December 31, 2018 to April 18, 2019.
+Schedule from December 31, 2018 to June 21, 2019.
 News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
 ----------

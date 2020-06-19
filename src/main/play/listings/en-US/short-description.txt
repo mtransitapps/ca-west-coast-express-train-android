@@ -1,2 +1,2 @@
-Vancouver WCE train for MonTransit.
+West Coast Express train for MonTransit.
 Schedule. Alerts. News.

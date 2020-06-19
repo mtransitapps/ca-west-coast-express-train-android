@@ -1,8 +1,8 @@
-This app adds Vancouver WCE train information to MonTransit.
+This app adds West Coast Express train information to MonTransit.
 
 This app provides the train schedule and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
-Vancouver WCE trains serve Vancouver, Port Moody, Coquitlam, Port Coquitlam, Pitt Meadows, Maple Ridge, Mission in British Columbia, Canada.
+West Coast Express trains serve Vancouver, Port Moody, Coquitlam, Port Coquitlam, Pitt Meadows, Maple Ridge, Mission in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display trains information (schedule...).
 

@@ -1,2 +1,1 @@
-West Coast Express train for MonTransit.
-Schedule. Alerts. News.
+West Coast Express train for MonTransit. Schedule. Alerts. News.

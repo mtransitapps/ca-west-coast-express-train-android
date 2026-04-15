@@ -116,6 +116,11 @@ public class WestCoastExpressTrainAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public boolean cleanMergedServiceIds() {
+		return true;
+	}
+
+	@Override
 	public boolean directionFinderEnabled() {
 		return true;
 	}

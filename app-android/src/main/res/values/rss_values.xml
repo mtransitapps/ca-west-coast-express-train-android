@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">5</integer>
-    <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="rss_feeds">
         <item>https://buzzer.translink.ca/feed/</item>
     </string-array>
@@ -18,6 +16,6 @@
         <item>buzzer.translink.ca</item>
     </string-array>
     <string-array name="rss_feeds_colors">
-        <item>0761A5</item><!-- Vancouver TransLink BLUE -->
+        <item>@string/parent_agency_color</item>
     </string-array>
 </resources>

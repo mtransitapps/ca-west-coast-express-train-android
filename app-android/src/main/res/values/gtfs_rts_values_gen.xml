@@ -4,6 +4,6 @@
     <string name="gtfs_rts_source_label">translink.ca</string>
     <string name="gtfs_rts_agency_id">TL</string>
     <integer name="gtfs_rts_agency_type">2</integer>
-    <string name="gtfs_rts_timezone">America/Vancouver</string>
+    <string name="gtfs_rts_timezone">America/Phoenix</string>
     <string name="gtfs_rts_color">87189D</string>
 </resources>
